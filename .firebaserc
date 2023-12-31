@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "employee-manager-9a317": {
+      "hosting": {
+        "angularprojectapp": [
+          "employee-manager-9a317"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "employee-manager-9a317"
+  }
+}

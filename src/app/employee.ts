@@ -7,5 +7,3 @@ export interface Employee {
     imageUrl: string;
     employeeCode: string;
   }
-
-  //MIRRORING WHAT THE EMPLOYEE LOOKS LIKE FROM THE BACKEND
